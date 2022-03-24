@@ -1,0 +1,21 @@
+.services{
+    background: #191919;
+}
+.p_color{
+    color: crimson;
+    text-align: center;
+}
+
+.service_head{
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.card_head{
+    margin: 0 30px;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+}

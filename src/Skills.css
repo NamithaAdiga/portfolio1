@@ -1,0 +1,32 @@
+h1.skills_head{
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.para{
+    text-align: center;
+    font-weight: 700;
+}
+.s_color{
+    color: white;
+}
+.what_color{
+    color: crimson;
+}
+.skills .skill_para .column_left{
+/* width: calc(50% - 30px); */
+text-align: center;
+      margin: 0 20px;
+}
+#file{
+     margin-left: 220px;
+    color: white;
+    display: flex;
+}
+.column_right{
+    margin-left: 280px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
