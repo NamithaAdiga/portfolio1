@@ -19,6 +19,10 @@ function Skills() {
         
         <p className='skill_text s_color'>
            Weather Forecast: Implemented the use of React js for this project.
+        </p><br />
+
+        <p className='skill_text s_color'>
+          TicTacToe : Implemented using reactjs and js
         </p>
             </div><br />
              </div> 
