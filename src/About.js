@@ -1,11 +1,13 @@
+
 import React, {useState} from "react";
 import "./About.css";
-import img from "./images/nami.JPG";
+import img from "./images/namitha.jpeg";
+
 
 // import aboutImg from "./img/about.jpg";
 function About() {
   const [show, setShow]=useState(true);
-  
+ 
   //  Up To Top Btn
     // window.addEventListener("scroll", function(){
     //   const upToTop = document.querySelector("a.bottom__to__top");
@@ -35,12 +37,12 @@ function About() {
                
               </p> */}
               <div className="about__button d__flex align__items__center">
-                <a href="#">
-                  <button className="about btn pointer">Download Cv</button>
+              <a href="./namitha_resume.pdf" download>  
+              <button className="about btn pointer"> Download Cv</button>
                 </a>
-                <a href="#">
+                {/* <a href="#">
                   <button className="about btn pointer">Hire Me</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

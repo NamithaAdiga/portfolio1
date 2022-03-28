@@ -21,11 +21,10 @@ function Services() {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-         App Design
+         Web developer
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+         I also develop the websites. Modern and mobile ready websites.
           
         </Typography>
       </CardContent> 
@@ -43,8 +42,7 @@ function Services() {
           Web Design
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+         Plan,create and code internet sites and web pages with artful designs.
           
         </Typography>
       </CardContent> 
